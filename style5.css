@@ -1,0 +1,46 @@
+body {
+  background: url(../img/background.jpg) no-repeat 0px 0px;
+
+  background-size: cover;
+}
+
+.container {
+  margin-top: 200px;
+  max-width: 500px;
+
+  padding: 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: rgb(255, 214, 152);
+  border-radius: 5%;
+}
+.form-group {
+  margin-bottom: 30px;
+}
+.form-btn1 {
+  padding-top: 23px;
+}
+.welcomeimg1 {
+  width: 100%;
+  margin-bottom: 30px;
+  object-fit: contain;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+}
+.welcomeimg2 {
+  width: 100%;
+  margin-bottom: 30px;
+  object-fit: contain;
+  border-radius: 3%;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+}
+.dropdown-menu {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+.heading {
+  color: rgb(0, 0, 0);
+  padding-bottom: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: xx-large;
+}

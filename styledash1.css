@@ -1,0 +1,33 @@
+body {
+  background: url(../img/background.jpg) no-repeat 0px 0px;
+}
+.container {
+  margin-top: 100px;
+  max-width: 500px;
+
+  padding: 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-color: rgb(255, 214, 152);
+  border-radius: 5%;
+}
+.form-group {
+  margin-bottom: 30px;
+}
+.button1 {
+  padding: 8px 0px;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 6px;
+}
+.button2 {
+  padding: 8px 0px;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 6px;
+}
+.button3 {
+  padding: 8px 0px;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 6px;
+}
